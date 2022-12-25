@@ -5,6 +5,6 @@
 
 Para rodar esse projeto na sua máquina, digite:
 ```
-npm install (Para ter essa aparência, faça: ``` coloque 3 acentos crase, antes e depois da frase)
+node app.js (Para ter essa aparência, faça: ``` coloque 3 acentos crase, antes e depois da frase)
 ```
 
